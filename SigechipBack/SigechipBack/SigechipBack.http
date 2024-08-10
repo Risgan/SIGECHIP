@@ -1,0 +1,6 @@
+@SigechipBack_HostAddress = http://localhost:5007
+
+GET {{SigechipBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\SigechipBack.exe
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\SigechipBack.dll
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\SigechipBack.deps.json
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\SigechipBack.runtimeconfig.json
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\SigechipBack.pdb
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\johnr\Documents\Documentos\ECCI\Tesis\Tesis Universidad ECCI\SIGECHIP\SigechipBack\SigechipBack\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
