@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using SigechipBack.Data;
 using SigechipBack.Interface.IRespositories;
+using SigechipBack.Interface.IServices;
 using SigechipBack.Repositories;
+using SigechipBack.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,10 +35,25 @@ builder.Services.AddScoped<IEstadoRepository, EstadoRepository>();
 builder.Services.AddScoped<ICodeQRRepository, CodeQRRepository>();
 builder.Services.AddScoped<IVeterinariaRepository, VeterinariaRepository>();
 
-/*
-// Registrar servicios
-builder.Services.AddScoped<IYourService, YourService>();
 
+// Registrar servicios
+builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericService<>));
+
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<IVeterinarioService, VeterinarioService>();
+builder.Services.AddScoped<IPacienteService, PacienteService>();
+builder.Services.AddScoped<IRolService, RolService>();
+builder.Services.AddScoped<IHistorialService, HistorialService>();
+builder.Services.AddScoped<IProcedimientoService, ProcedimientoService>();
+builder.Services.AddScoped<IRecomendacionService, RecomendacionService>();
+builder.Services.AddScoped<IFormulaService, FormulaService>();
+builder.Services.AddScoped<IEvidenciasService, EvidenciasService>();
+builder.Services.AddScoped<ITipoDocumentoService, TipoDocumentoService>();
+builder.Services.AddScoped<IVacunasService, VacunasService>();
+builder.Services.AddScoped<IEstadoService, EstadoService>();
+builder.Services.AddScoped<ICodeQRService, CodeQRService>();
+builder.Services.AddScoped<IVeterinariaService, VeterinariaService>();
+/*
 // Registrar AutoMapper
 builder.Services.AddAutoMapper(typeof(YourMapperProfile));
 

@@ -26,19 +26,19 @@ namespace SigechipBack.Models
         public string PrimerNombre { get; set; }
 
         [Column("segundo_nombre")]
-        public string SegundoNombre { get; set; }
+        public string? SegundoNombre { get; set; }
 
         [Column("primer_apellido")]
-        public string PrimerApellido { get; set; }
+        public string? PrimerApellido { get; set; }
 
         [Column("segundo_apellido")]
-        public string SegundoApellido { get; set; }
+        public string? SegundoApellido { get; set; }
 
         [Column("rol")]
         public int Rol { get; set; }
 
         [Column("foto")]
-        public string Foto { get; set; }
+        public string? Foto { get; set; }
 
         [Column("activo")]
         public bool Activo { get; set; } = true;

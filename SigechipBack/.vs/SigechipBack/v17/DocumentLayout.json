@@ -3,208 +3,184 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\iservices\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\codeqrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\codeqrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\estadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\estadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\evidenciasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\evidenciasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\formularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\formularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\procedimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\procedimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\recomendacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\recomendacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\vacunasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\vacunasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\veterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\veterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\repositories\\veterinariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\repositories\\veterinariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iveterinariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iveterinariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iveterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iveterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\ivacunasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\ivacunasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\itipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\itipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\irecomendacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\irecomendacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iprocedimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iprocedimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\ihistorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\ihistorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iformularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iformularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\ievidenciasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\ievidenciasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\irespositories\\icodeqrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\irespositories\\icodeqrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\veterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\veterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\vacunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\vacunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\vacunascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\vacunascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\recomendacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\recomendacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\procedimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\procedimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\formulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\formulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\codeqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\codeqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\evidenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\evidenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\sigechipback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\sigechipback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\codeqrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\codeqrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\veterinarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\veterinarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\codeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\codeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\evidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\evidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\formulaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\formulaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\procedimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\procedimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\recomendacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\recomendacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\tipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\tipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\vacunasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\vacunasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\veterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\veterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\itipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\itipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iveterinarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iveterinarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iveterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iveterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\ivacunasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\ivacunasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\irecomendacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\irecomendacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iprocedimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iprocedimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\ihistorialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\ihistorialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\iformulaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\iformulaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\ievidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\ievidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -251,223 +227,258 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericService.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\GenericService.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Services\\GenericService.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\GenericService.cs",
-              "RelativeToolTip": "SigechipBack\\Services\\GenericService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Usuario.cs",
+              "RelativeToolTip": "SigechipBack\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:37:09.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IGenericService.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IGenericService.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IGenericService.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IGenericService.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IGenericService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:36:13.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HistorialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\HistorialRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\HistorialRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\HistorialRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\HistorialRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:17:54.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:00:04.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormulaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\FormulaRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\FormulaRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\FormulaRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\FormulaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:19.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EvidenciasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\EvidenciasRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\EvidenciasRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\EvidenciasRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\EvidenciasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:26.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EstadoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\EstadoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\EstadoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\EstadoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\EstadoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:51.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CodeQRRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\CodeQRRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\CodeQRRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\CodeQRRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\CodeQRRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:19:01.18Z",
+              "WhenOpened": "2024-08-11T04:21:46.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\PacienteRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\PacienteRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\PacienteRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\PacienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:17:46.01Z",
+              "WhenOpened": "2024-08-11T03:35:13.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcedimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecomendacionController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RecomendacionController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\RecomendacionController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RecomendacionController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\RecomendacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RolController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\RolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:16:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoDocumentoController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\TipoDocumentoController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\TipoDocumentoController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\TipoDocumentoController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\TipoDocumentoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VacunasController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VacunasController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VacunasController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VacunasController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\VacunasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeterinariaController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinariaController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VeterinariaController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinariaController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\VeterinariaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:54.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ProcedimientoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\ProcedimientoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\ProcedimientoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\ProcedimientoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\ProcedimientoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Title": "FormulaController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\FormulaController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\FormulaController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\FormulaController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\FormulaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:03.324Z",
+              "WhenOpened": "2024-08-11T03:35:32.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "RecomendacionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\RecomendacionRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\RecomendacionRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\RecomendacionRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\RecomendacionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\HistorialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:10.557Z",
+              "WhenOpened": "2024-08-11T03:35:19.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\RolRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\RolRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\RolRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\RolRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Title": "EvidenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EvidenciasController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\EvidenciasController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EvidenciasController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\EvidenciasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:02:31.691Z",
+              "WhenOpened": "2024-08-11T03:35:36.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TipoDocumentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\TipoDocumentoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\TipoDocumentoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\TipoDocumentoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\TipoDocumentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\EstadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:34.505Z",
+              "WhenOpened": "2024-08-11T03:35:46.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Title": "CodeQrController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\CodeQrController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\CodeQrController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\CodeQrController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\CodeQrController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:17:23.233Z",
+              "WhenOpened": "2024-08-11T03:35:51.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "VacunasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VacunasRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\VacunasRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VacunasRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\VacunasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:18:43.076Z",
+              "WhenOpened": "2024-08-10T02:14:00.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "VeterinariaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VeterinariaRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\VeterinariaRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VeterinariaRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\VeterinariaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Title": "VeterinarioController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinarioController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VeterinarioController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinarioController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\VeterinarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:19:08.896Z",
+              "WhenOpened": "2024-08-11T03:35:07.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VeterinarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VeterinarioRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Repositories\\VeterinarioRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Repositories\\VeterinarioRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Repositories\\VeterinarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "DocumentIndex": 22,
+              "Title": "EvidenciasService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EvidenciasService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\EvidenciasService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EvidenciasService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\EvidenciasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:17:37.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:50.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EstadoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EstadoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\EstadoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EstadoService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\EstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:39:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CodeQRService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\CodeQRService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\CodeQRService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\CodeQRService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\CodeQRService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:39:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VeterinarioService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinarioService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\VeterinarioService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinarioService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\VeterinarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:37:56.618Z"
             },
             {
               "$type": "Document",
@@ -477,439 +488,297 @@
               "RelativeDocumentMoniker": "SigechipBack\\Program.cs",
               "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Program.cs",
               "RelativeToolTip": "SigechipBack\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T03:58:27.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T00:41:32.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "IVeterinarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVeterinarioRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IVeterinarioRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVeterinarioRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IVeterinarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "IPacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IPacienteService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IPacienteService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IPacienteService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IPacienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:07:26.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:44:57.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IVeterinariaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVeterinariaRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IVeterinariaRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVeterinariaRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IVeterinariaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "DocumentIndex": 16,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\PacienteService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\PacienteService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\PacienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:16:35.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IVacunasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVacunasRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IVacunasRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IVacunasRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IVacunasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:11:52.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IUsuarioRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:07:14.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ITipoDocumentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\ITipoDocumentoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\ITipoDocumentoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\ITipoDocumentoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\ITipoDocumentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:11:38.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:08.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "IRolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IRolRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IRolRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IRolRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IRolRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Title": "FormulaService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\FormulaService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\FormulaService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\FormulaService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\FormulaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:02:00.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:41.846Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "IRecomendacionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IRecomendacionRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IRecomendacionRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IRecomendacionRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IRecomendacionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
+              "Title": "HistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\HistorialService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\HistorialService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\HistorialService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\HistorialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:11:02.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:17.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IProcedimientoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IProcedimientoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IProcedimientoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IProcedimientoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IProcedimientoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
+              "Title": "ProcedimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\ProcedimientoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\ProcedimientoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\ProcedimientoService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\ProcedimientoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:10:52.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:33.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "IPacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IPacienteRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IPacienteRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IPacienteRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IPacienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Title": "RecomendacionService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RecomendacionService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\RecomendacionService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RecomendacionService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\RecomendacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:07:38.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:26.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "IHistorialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IHistorialRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IHistorialRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IHistorialRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IHistorialRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Title": "TipoDocumentoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\TipoDocumentoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\TipoDocumentoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\TipoDocumentoService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\TipoDocumentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:08:32.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:38:58.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IGenericRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:59:09.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:37:46.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "IFormulaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IFormulaRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IFormulaRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IFormulaRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IFormulaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Title": "VacunasService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VacunasService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\VacunasService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VacunasService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\VacunasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:11:13.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:39:05.913Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "IEvidenciasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IEvidenciasRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IEvidenciasRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IEvidenciasRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IEvidenciasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABKAAAA",
+              "Title": "VeterinariaService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinariaService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\VeterinariaService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinariaService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\VeterinariaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:11:26.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:39:30.465Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "IEstadoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IEstadoRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\IEstadoRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\IEstadoRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\IEstadoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RolService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Services\\RolService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RolService.cs",
+              "RelativeToolTip": "SigechipBack\\Services\\RolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:12:03.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T00:42:46.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "ICodeQRRepository.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\ICodeQRRepository.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IRespositories\\ICodeQRRepository.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IRespositories\\ICodeQRRepository.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IRespositories\\ICodeQRRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "ITipoDocumentoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T00:16:22.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Veterinaria.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Veterinaria.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Veterinaria.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Veterinaria.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Veterinaria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:47:29.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Rol.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Rol.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Rol.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:42:41.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TipoDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\TipoDocumento.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\TipoDocumento.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\TipoDocumento.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\TipoDocumento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:44:17.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Usuario.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Usuario.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:41:32.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Vacunas.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Vacunas.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Vacunas.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Vacunas.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Vacunas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:44:31.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Veterinario.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Veterinario.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Veterinario.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Veterinario.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Veterinario.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:42:02.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:46:42.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SigechipBack\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRolService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IRolService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRolService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IRolService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:36:55.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T00:42:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IEstadoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEstadoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IEstadoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEstadoService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IEstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:47:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IVeterinarioService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:44:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IVeterinariaService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:47:18.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IVacunasService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVacunasService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVacunasService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVacunasService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IVacunasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:46:56.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:44:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRecomendacionService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:46:13.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "Recomendacion.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Recomendacion.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Recomendacion.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Recomendacion.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Recomendacion.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Title": "IProcedimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:43:29.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:46:04.707Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "Procedimiento.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Procedimiento.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Procedimiento.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Procedimiento.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Procedimiento.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Title": "IHistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IHistorialService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IHistorialService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IHistorialService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IHistorialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:43:13.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:45:08.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Paciente.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Paciente.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Paciente.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAFAAAA",
+              "Title": "IFormulaService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IFormulaService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IFormulaService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IFormulaService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IFormulaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:42:25.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:46:27.444Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "Historial.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Historial.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Historial.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Historial.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Historial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Title": "IEvidenciasService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:42:58.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:46:35.381Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "Formula.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Formula.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Formula.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Formula.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Formula.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Title": "ICodeQRService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:43:46.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Evidencias.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Evidencias.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Evidencias.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Evidencias.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Evidencias.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:44:02.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Estado.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Estado.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\Estado.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Estado.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\Estado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:44:47.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CodeQR.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\CodeQR.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Models\\CodeQR.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\CodeQR.cs",
-              "RelativeToolTip": "SigechipBack\\Models\\CodeQR.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T23:45:02.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\appsettings.json",
-              "RelativeDocumentMoniker": "SigechipBack\\appsettings.json",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\appsettings.json",
-              "RelativeToolTip": "SigechipBack\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T23:30:03.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "SigechipBack",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\SigechipBack.csproj",
-              "RelativeDocumentMoniker": "SigechipBack\\SigechipBack.csproj",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\SigechipBack.csproj",
-              "RelativeToolTip": "SigechipBack\\SigechipBack.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-09T23:22:40.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Dockerfile",
-              "RelativeDocumentMoniker": "SigechipBack\\Dockerfile",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Dockerfile",
-              "RelativeToolTip": "SigechipBack\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-05T03:58:55.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T01:47:10.945Z"
             }
           ]
         },

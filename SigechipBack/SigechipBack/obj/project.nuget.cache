@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7s12DhVzmXVe/NU1GRH1eBdUA7989j6ey3OhCUlpJ9Kz5vENj7f9uy/ip5Wb+Lt4sx7okzTn09lxs880fvzB7A==",
+  "dgSpecHash": "ndA64eo81OWqqrOrzgNcvE9TLHiZDyqpYohFMackv7LvFaNDJjw2BqPJi7RMjuxX+9BEXsPMySDsKB2zhD00yA==",
   "success": true,
   "projectFilePath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\SigechipBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\johnr\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\johnr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\johnr\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\johnr\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
