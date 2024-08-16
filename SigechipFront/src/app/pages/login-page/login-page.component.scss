@@ -1,0 +1,46 @@
+.contendor {
+    // background: var(--secondary);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo {
+        width: 100vh;
+        height: 100vh;
+        flex-shrink: 0;
+        border-radius: 0px 600px 600px 600px;
+        background: linear-gradient(227deg, #002BAF 0%, #001658 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    img {
+        // width: 85%;
+        // background: var(--primary-Light);
+        background: rgba(0, 0, 0, 0.0);
+        width: 90%;
+    }
+}
+
+.login {
+    // background: var(--primary-Light);
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjeta{
+    background: var(--white);
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}

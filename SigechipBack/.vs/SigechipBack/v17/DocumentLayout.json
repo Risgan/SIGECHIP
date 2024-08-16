@@ -3,67 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\tipodocumentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\vacunascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\vacunascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\vacunascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\recomendacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\recomendacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\recomendacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\procedimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\procedimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\procedimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\formulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\formulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\formulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\evidenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\evidenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\evidenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\codeqrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\codeqrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\codeqrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -177,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\ievidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\ievidenciasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Models\\Usuario.cs",
@@ -240,32 +240,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PacienteController.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\PacienteController.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
-              "RelativeToolTip": "SigechipBack\\Controllers\\PacienteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:13.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProcedimientoController.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\ProcedimientoController.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
-              "RelativeToolTip": "SigechipBack\\Controllers\\ProcedimientoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:25.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "RecomendacionController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RecomendacionController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\RecomendacionController.cs",
@@ -273,12 +247,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\RecomendacionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:28.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:28.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\RolController.cs",
@@ -286,12 +259,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\RolController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T02:16:33.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T02:16:33.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TipoDocumentoController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\TipoDocumentoController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\TipoDocumentoController.cs",
@@ -299,12 +271,61 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\TipoDocumentoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:40.305Z",
+              "WhenOpened": "2024-08-11T03:35:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\EstadoController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:46.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ICodeQRService.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:47:10.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcedimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\ProcedimientoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "SigechipBack\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:35:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\UsuarioController.cs",
@@ -312,12 +333,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:04.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:04.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "VacunasController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VacunasController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VacunasController.cs",
@@ -325,12 +345,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\VacunasController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:43.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:43.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VeterinariaController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinariaController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VeterinariaController.cs",
@@ -338,12 +357,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\VeterinariaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:54.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:54.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "FormulaController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\FormulaController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\FormulaController.cs",
@@ -351,12 +369,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\FormulaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:32.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:32.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HistorialController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\HistorialController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\HistorialController.cs",
@@ -364,12 +381,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\HistorialController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:19.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:19.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "EvidenciasController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EvidenciasController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\EvidenciasController.cs",
@@ -377,25 +393,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\EvidenciasController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:36.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:36.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EstadoController.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Controllers\\EstadoController.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\EstadoController.cs",
-              "RelativeToolTip": "SigechipBack\\Controllers\\EstadoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:46.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CodeQrController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\CodeQrController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\CodeQrController.cs",
@@ -403,12 +405,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\CodeQrController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:51.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:51.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\BaseController.cs",
@@ -416,12 +417,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T02:14:00.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T02:14:00.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "VeterinarioController.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Controllers\\VeterinarioController.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Controllers\\VeterinarioController.cs",
@@ -429,12 +429,11 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\VeterinarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:07.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:07.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "EvidenciasService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EvidenciasService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\EvidenciasService.cs",
@@ -446,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "EstadoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\EstadoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\EstadoService.cs",
@@ -458,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CodeQRService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\CodeQRService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\CodeQRService.cs",
@@ -470,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "VeterinarioService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinarioService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\VeterinarioService.cs",
@@ -482,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Program.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Program.cs",
@@ -494,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IPacienteService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IPacienteService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IPacienteService.cs",
@@ -506,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PacienteService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\PacienteService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\PacienteService.cs",
@@ -518,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FormulaService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\FormulaService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\FormulaService.cs",
@@ -530,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "HistorialService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\HistorialService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\HistorialService.cs",
@@ -542,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ProcedimientoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\ProcedimientoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\ProcedimientoService.cs",
@@ -554,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "RecomendacionService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RecomendacionService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\RecomendacionService.cs",
@@ -566,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "TipoDocumentoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\TipoDocumentoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\TipoDocumentoService.cs",
@@ -578,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\UsuarioService.cs",
@@ -590,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "VacunasService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VacunasService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\VacunasService.cs",
@@ -602,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "VeterinariaService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\VeterinariaService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\VeterinariaService.cs",
@@ -614,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "RolService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Services\\RolService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Services\\RolService.cs",
@@ -626,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ITipoDocumentoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\ITipoDocumentoService.cs",
@@ -638,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IRolService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRolService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IRolService.cs",
@@ -650,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IEstadoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEstadoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IEstadoService.cs",
@@ -662,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IVeterinarioService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVeterinarioService.cs",
@@ -674,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IVeterinariaService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVeterinariaService.cs",
@@ -686,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "IVacunasService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IVacunasService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IVacunasService.cs",
@@ -698,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IUsuarioService.cs",
@@ -710,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "IRecomendacionService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IRecomendacionService.cs",
@@ -722,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IProcedimientoService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IProcedimientoService.cs",
@@ -734,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "IHistorialService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IHistorialService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IHistorialService.cs",
@@ -746,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "IFormulaService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IFormulaService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IFormulaService.cs",
@@ -758,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IEvidenciasService.cs",
               "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
               "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\IEvidenciasService.cs",
@@ -767,18 +766,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T01:46:35.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ICodeQRService.cs",
-              "DocumentMoniker": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
-              "RelativeDocumentMoniker": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
-              "ToolTip": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
-              "RelativeToolTip": "SigechipBack\\Interface\\IServices\\ICodeQRService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T01:47:10.945Z"
             }
           ]
         },
