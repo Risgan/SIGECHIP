@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SigechipBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd39564d35769e56282dc0763871b027e761c4ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b2b32f1880f46812859d208b3f671aaa8135ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("SigechipBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SigechipBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

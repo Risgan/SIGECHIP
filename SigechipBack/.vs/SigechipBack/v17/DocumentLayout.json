@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\interface\\iservices\\icodeqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|c:\\users\\johnr\\documents\\documentos\\ecci\\tesis\\tesis universidad ecci\\sigechip\\sigechipback\\sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|C:\\Users\\johnr\\Documents\\Documentos\\ECCI\\Tesis\\Tesis Universidad ECCI\\SIGECHIP\\SigechipBack\\sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B531923C-2489-48AE-B1E0-A01D926C2E30}|SigechipBack\\SigechipBack.csproj|solutionrelative:sigechipback\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -234,8 +234,7 @@
               "RelativeToolTip": "SigechipBack\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:21:46.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:21:46.809Z"
             },
             {
               "$type": "Document",
@@ -283,8 +282,7 @@
               "RelativeToolTip": "SigechipBack\\Controllers\\EstadoController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:35:46.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T03:35:46.505Z"
             },
             {
               "$type": "Document",
